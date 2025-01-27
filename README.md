@@ -33,3 +33,5 @@ Data Visualization: Generating informative visualizations using Matplotlib and S
 #### 5.SciPy.stats (Scientific Python - Statistics): 
 * Provides statistical functions and distributions.
 
+## Summary : 
+* This project conducts a rigorous EDA on a cardiovascular disease dataset. The analysis employs a combination of descriptive statistics, correlation analysis, and data visualization techniques to characterize the dataset, identify potential data anomalies, and explore relationships between variables. The use of Python's scientific computing libraries (NumPy, Pandas, Seaborn, Matplotlib, SciPy.stats) facilitates efficient data manipulation, statistical analysis, and the creation of informative visualizations. The results of this EDA provide a foundation for subsequent data preprocessing, feature engineering, and predictive modeling tasks.
