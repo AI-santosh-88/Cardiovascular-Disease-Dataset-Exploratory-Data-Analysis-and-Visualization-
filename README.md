@@ -1,10 +1,10 @@
 
 # TITLE : Cardiovascular Disease Dataset: Exploratory Data Analysis and Visualization using Python
 
-### Description : 
+## Description : 
 This project implements a comprehensive exploratory data analysis (EDA) pipeline on a cardiovascular disease dataset. The methodology encompasses statistical analysis and data visualization techniques to characterize the dataset's statistical properties, identify potential data quality issues (e.g., outliers), and uncover underlying relationships between predictor variables and the target variable (presence/absence of heart disease). The analysis is performed using Python's scientific computing ecosystem, focusing on univariate, bivariate, and multivariate analysis.
 
-### Responsibilities :
+## Responsibilities :
 #### Data Ingestion and Preprocessing: 
 * Loading the dataset from a CSV file using Pandas' read_csv() function. Initial data inspection includes determining dataset dimensionality (shape), data types (dtypes), and generating descriptive statistics (describe()).
 
