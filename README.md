@@ -21,4 +21,15 @@ This project implements a comprehensive exploratory data analysis (EDA) pipeline
 * Checking for missing values using isnull() and notnull() functions. Outlier detection is performed using box plots to identify data points falling outside the interquartile range (IQR).
 Data Visualization: Generating informative visualizations using Matplotlib and Seaborn libraries. This includes histograms, KDE plots, count plots, strip plots, box plots, scatter plots, heatmaps, and pair plots.
 
+## Libraries Used :
+#### 1.NumPy (Numerical Python): 
+* Provides fundamental numerical computing capabilities, including array operations and mathematical functions.
+#### 2.Pandas (Python Data Analysis Library): 
+* Offers data structures (DataFrames) and functions for data manipulation, analysis, and I/O.
+#### 3.Seaborn: 
+* Built on top of Matplotlib, provides a high-level interface for creating statistically informative and visually appealing graphics.
+#### 4.Matplotlib: 
+* A comprehensive library for creating static, interactive, and animated visualizations in Python.
+#### 5.SciPy.stats (Scientific Python - Statistics): 
+* Provides statistical functions and distributions.
 
